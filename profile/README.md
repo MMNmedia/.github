@@ -20,7 +20,7 @@ SQBX (Square Box Media) is our brand for film and TV production. SQBX is current
 
 ### MMN/Medialoop
 
-Medial&infin;p is our brand for subtitling and web video production. Medial\infty p was responsible for providing subtitles to [Pride Cymru](https://www.pridecymru.com/) during their online pre-recorded panel discussions in 2020.
+Medial&infin;p is our brand for subtitling and web video production. Medial&infin;p was responsible for providing subtitles to [Pride Cymru](https://www.pridecymru.com/) during their online pre-recorded panel discussions in 2020.
 
 
 ## Our Projects
