@@ -57,7 +57,7 @@ A few of the services that power our organisation are freely available and open 
 
 ## Copyright
 
-All of our projects are proprietary and are copyrighted, belonging to 
+All of our projects are proprietary and are copyrighted, belonging to MMN. If you find that we are violating the copyrights or ToS of a project in any way, please contact us by email below. 
 
 ## Contributing
 
@@ -79,6 +79,12 @@ CF24 2HF
 
 ### Email
 GitHub Issues & Support: [github-spt-team@matthewsnetmedia.co.uk](mailto:github-spt-team@matthewsnetmedia.co.uk)
+
+Copyright Issues, Reporting & Resolution: [copr-legalissues-team@matthewsnetmedia.co.uk](mailto:copr-legalissues-team@matthewsnetmedia.co.uk)
+
+Privacy Issues: [priv-legalissues-team@matthewsnetmedia.co.uk](mailto:priv-legalissues-team@matthewsnetmedia.co.uk)
+
+Accessibility Issues: [acc-spt-team@matthewsnetmedia.co.uk](mailto:acc-spt-team@matthewsnetmedia.co.uk)
 
 General Issues & Support: [spt-team@matthewsnetmedia.co.uk](mailto:spt-team@matthewsnetmedia.co.uk)
 
