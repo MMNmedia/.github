@@ -6,9 +6,22 @@
 
 MMN is a digital media production and technology company based in Cardiff, Wales. We produce videos, short films, web TV series, websites and branding packages for local organisations. 
 
-## What we do
+### MMN/37HRD
 
-Text
+37HRD is our base in Cardiff, Wales, and our brand for location management, production management, ID services and website management/hosting.
+
+### MMN/IMS
+
+IMS is responsible for talent management, going hand-in-hand with 37HRD's ID services. IMS also powers our *Creative Network*, a centralised online exposure platform for talented creatives.
+
+### MMN/SQBX
+
+SQBX (Square Box Media) is our brand for film and TV production. SQBX is currently responsible for producing the documentary [*Fibres: The Roots of Industrial Hemp*](https://sqbx.uk/films/fibres/) for Aberystwyth University.
+
+### MMN/Medialoop
+
+Medial\infty p is our brand for subtitling and web video production. Medial\infty p was responsible for providing subtitles to [Pride Cymru](https://www.pridecymru.com/) during their online pre-recorded panel discussions in 2020.
+
 
 ## Our Projects
 
@@ -42,6 +55,19 @@ A few of the services that power our organisation are freely available and open 
 - [**Web Root**](https://github.com/MMNmedia/mmn-root)   *(Web server config, inc. domains and hosting)*
 - [**St Andrew's URC**](https://github.com/MMNmedia/saurc)   *(Website in development for [St Andrew's URC, Cardiff](https://standrewsurccardiff.co.uk).)*
 
+## Copyright
+
+All of our projects are proprietary and are copyrighted, belonging to 
+
+## Contributing
+
+Unfortunately, we are not accepting contributions from members outside of our organisation. This page is just to introduce our organisation to those who stumble across our GitHub profile. If you need to flag an issue, please contact us directly: [support-team@matthewsnetmedia.co.uk](mailto:support-team@matthewsnetmedia.co.uk).
+
+## Service Uptime
+
+You can check the uptime of our servers and services here: [status.37hrd.uk](https://status.37hrd.uk).
+Please do not contact us regarding uptime, unless you are a client or notice a serious degradation of service that persists for longer than 1 hour.
+
 ## Contact
 
 ### Post
@@ -52,5 +78,6 @@ Cardiff
 CF24 2HF   
 
 ### Email
-Support
-[support-team@matthewsnetmedia.co.uk](mailto:support-team@matthewsnetmedia.co.uk)
+GitHub Issues & Support: [github-spt-team@matthewsnetmedia.co.uk](mailto:github-spt-team@matthewsnetmedia.co.uk)
+General Issues & Support: [support-team@matthewsnetmedia.co.uk](mailto:support-team@matthewsnetmedia.co.uk)
+General Enquiries: [hello@matthewsnetmedia.co.uk](mailto:hello@matthewsnetmedia.co.uk)
