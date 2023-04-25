@@ -80,6 +80,6 @@ CF24 2HF
 ### Email
 GitHub Issues & Support: [github-spt-team@matthewsnetmedia.co.uk](mailto:github-spt-team@matthewsnetmedia.co.uk)
 
-General Issues & Support: [support-team@matthewsnetmedia.co.uk](mailto:support-team@matthewsnetmedia.co.uk)
+General Issues & Support: [spt-team@matthewsnetmedia.co.uk](mailto:spt-team@matthewsnetmedia.co.uk)
 
 General Enquiries: [hello@matthewsnetmedia.co.uk](mailto:hello@matthewsnetmedia.co.uk)
