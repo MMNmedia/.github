@@ -80,9 +80,9 @@ CF24 2HF
 ### Email
 GitHub Issues & Support: [github-spt-team@matthewsnetmedia.co.uk](mailto:github-spt-team@matthewsnetmedia.co.uk)
 
-Copyright Issues, Reporting & Resolution: [copr-legalissues-team@matthewsnetmedia.co.uk](mailto:copr-legalissues-team@matthewsnetmedia.co.uk)
+Copyright Issues, Reporting & Resolution: [copr-legaliss-team@matthewsnetmedia.co.uk](mailto:copr-legaliss-team@matthewsnetmedia.co.uk)
 
-Privacy Issues: [priv-legalissues-team@matthewsnetmedia.co.uk](mailto:priv-legalissues-team@matthewsnetmedia.co.uk)
+Privacy Issues: [priv-legaliss-team@matthewsnetmedia.co.uk](mailto:priv-legaliss-team@matthewsnetmedia.co.uk)
 
 Accessibility Issues: [acc-spt-team@matthewsnetmedia.co.uk](mailto:acc-spt-team@matthewsnetmedia.co.uk)
 
