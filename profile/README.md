@@ -57,11 +57,11 @@ A few of the services that power our organisation are freely available and open 
 
 ## Copyright
 
-All of our projects are proprietary and are copyrighted, belonging to MMN. If you find that we are violating the copyrights or ToS of a project in any way, please contact us by email below. 
+All of our projects are proprietary and are copyrighted, belonging to MMN. If you find that we are violating the copyrights or ToS of a project in any way, please contact us by email: [copr-legaliss-team@matthewsnetmedia.co.uk](mailto:copr-legaliss-team@matthewsnetmedia.co.uk). 
 
 ## Contributing
 
-Unfortunately, we are not accepting contributions from members outside of our organisation. This page is just to introduce our organisation to those who stumble across our GitHub profile. If you need to flag an issue, please contact us directly: [support-team@matthewsnetmedia.co.uk](mailto:support-team@matthewsnetmedia.co.uk).
+Unfortunately, we are not accepting contributions from members outside of our organisation. This page is just to introduce our organisation to those who stumble across our GitHub profile. If you need to flag an issue, please contact us directly: [github-spt-team@matthewsnetmedia.co.uk](mailto:github-spt-team@matthewsnetmedia.co.uk).
 
 ## Service Uptime
 
