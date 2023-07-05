@@ -4,7 +4,7 @@
 
 ## Who we are!
 
-MMN is a digital media production and technology company based in Cardiff, Wales. We produce videos, short films, web TV series, websites and branding packages for local organisations. 
+SQBX Media Group is a digital media production and technology company based in Cardiff, Wales. We produce videos, short films, web TV series, websites and branding packages for local organisations. 
 
 ### MMN/37HRD
 
@@ -16,7 +16,7 @@ IMS is responsible for talent management, going hand-in-hand with 37HRD's ID ser
 
 ### MMN/SQBX
 
-SQBX (Square Box Media) is our brand for film and TV production. SQBX is currently responsible for producing the documentary [*Fibres: The Roots of Industrial Hemp*](https://sqbx.uk/films/fibres/) for Aberystwyth University.
+SQBX (Square Box) is our brand for film and TV production. SQBX is currently responsible for producing the documentary [*Fibres: The Roots of Industrial Hemp*](https://sqbx.uk/films/fibres/) for Aberystwyth University.
 
 ### MMN/Medialoop
 
